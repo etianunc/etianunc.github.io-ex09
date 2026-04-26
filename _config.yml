@@ -22,7 +22,7 @@ title: Should COMP110 have an Interdisciplinary Project?
 email: etian@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Analyzing questionnaire data from COMP110 to improve future iterations of the class.
-baseurl: "/ex09" # the subpath of your site, e.g. /blog
+baseurl: "/etianunc.github.io-ex09"" # the subpath of your site, e.g. /blog
 url: "etianunc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
